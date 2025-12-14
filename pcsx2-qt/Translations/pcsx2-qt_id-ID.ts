@@ -52,7 +52,7 @@
     <message>
       <location filename="../AboutDialog.cpp" line="119"/>
       <source>View Document</source>
-      <translation>Tampilan Dokumen</translation>
+      <translation>Lihat Dokumen</translation>
     </message>
     <message>
       <location filename="../AboutDialog.cpp" line="141"/>
@@ -349,7 +349,7 @@ Apakah ingin mengaktifkan Mode Hardcore?</translation>
       <location filename="../Settings/AchievementSettingsWidget.ui" line="299"/>
       <location filename="../Settings/AchievementSettingsWidget.cpp" line="58"/>
       <source>Enable In-Game Leaderboard Overlays</source>
-      <translation type="unfinished">Enable In-Game Leaderboard Overlays</translation>
+      <translation>Aktifkan Overlay Papan Peringkat dalam Game</translation>
     </message>
     <message>
       <location filename="../Settings/AchievementSettingsWidget.ui" line="309"/>
@@ -390,7 +390,7 @@ Apakah ingin mengaktifkan Mode Hardcore?</translation>
     <message>
       <location filename="../Settings/AchievementSettingsWidget.ui" line="401"/>
       <source>Leaderboard Submit Sound</source>
-      <translation>Suara Kirim Papan Petingkat</translation>
+      <translation>Suara Kirim Papan Peringkat</translation>
     </message>
     <message>
       <location filename="../Settings/AchievementSettingsWidget.ui" line="417"/>
@@ -421,12 +421,12 @@ Token masuk dibuat pada:</translation>
     <message>
       <location filename="../Settings/AchievementSettingsWidget.cpp" line="59"/>
       <source>Determines where achievement/leaderboard overlays are positioned on the screen.</source>
-      <translation type="unfinished">Determines where achievement/leaderboard overlays are positioned on the screen.</translation>
+      <translation>Menentukan posisi overlay pencapaian/papan peringkat pada layar.</translation>
     </message>
     <message>
       <location filename="../Settings/AchievementSettingsWidget.cpp" line="60"/>
       <source>Determines where achievement/leaderboard notification popups are positioned on the screen.</source>
-      <translation type="unfinished">Determines where achievement/leaderboard notification popups are positioned on the screen.</translation>
+      <translation>Menentukan posisi notifikasi popup pencapaian/papan peringkat pada layar.</translation>
     </message>
     <message>
       <location filename="../Settings/AchievementSettingsWidget.cpp" line="62"/>
@@ -490,12 +490,12 @@ Token masuk dibuat pada:</translation>
     <message>
       <location filename="../Settings/AchievementSettingsWidget.cpp" line="57"/>
       <source>Shows icons in the screen when a challenge/primed achievement is active.</source>
-      <translation type="unfinished">Shows icons in the screen when a challenge/primed achievement is active.</translation>
+      <translation>Menampilkan ikon pada layar ketika sebuah tantangan pencapaian sedang aktif.</translation>
     </message>
     <message>
       <location filename="../Settings/AchievementSettingsWidget.cpp" line="58"/>
       <source>Shows icons in the screen when leaderboard tracking is active.</source>
-      <translation type="unfinished">Shows icons in the screen when leaderboard tracking is active.</translation>
+      <translation>Menampilkan ikon pada layar ketika pelacakan papan peringkat sedang aktif.</translation>
     </message>
     <message>
       <location filename="../Settings/AchievementSettingsWidget.cpp" line="59"/>
@@ -716,13 +716,13 @@ Pesan belum dibaca: {2}</translation>
       <location filename="../../pcsx2/Achievements.cpp" line="3019"/>
       <location filename="../../pcsx2/Achievements.cpp" line="3027"/>
       <source>Change Selection</source>
-      <translation type="unfinished">Change Selection</translation>
+      <translation>Ganti Seleksi</translation>
     </message>
     <message>
       <location filename="../../pcsx2/Achievements.cpp" line="3020"/>
       <location filename="../../pcsx2/Achievements.cpp" line="3028"/>
       <source>Back</source>
-      <translation type="unfinished">Back</translation>
+      <translation>Kembali</translation>
     </message>
     <message>
       <location filename="../../pcsx2/Achievements.cpp" line="3174"/>
@@ -2379,7 +2379,7 @@ Posisi Papan Peringkat: {1} dari {2}</translation>
     <message>
       <location filename="../Debugger/Breakpoints/BreakpointModel.cpp" line="273"/>
       <source>DESCRIPTION</source>
-      <translation type="unfinished">DESCRIPTION</translation>
+      <translation>DESKRIPSI</translation>
     </message>
     <message>
       <location filename="../Debugger/Breakpoints/BreakpointModel.cpp" line="276"/>
@@ -2500,7 +2500,7 @@ Posisi Papan Peringkat: {1} dari {2}</translation>
     <message>
       <location filename="../../pcsx2/CDVD/IsoHasher.cpp" line="153"/>
       <source>Calculating checksum for track {}...</source>
-      <translation type="unfinished">Calculating checksum for track {}...</translation>
+      <translation>Sedang kalkulasi checksum untuk track {}...</translation>
     </message>
     <message>
       <location filename="../../pcsx2/CDVD/CDVDdiscReader.cpp" line="201"/>
@@ -4073,22 +4073,22 @@ Apakah Anda ingin menimpanya?</translation>
     <message>
       <location filename="../Settings/DebugAnalysisSettingsTab.ui" line="42"/>
       <source>Analysis</source>
-      <translation type="unfinished">Analysis</translation>
+      <translation>Analisis</translation>
     </message>
     <message>
       <location filename="../Settings/DebugAnalysisSettingsTab.ui" line="50"/>
       <source>Automatically Analyze Program:</source>
-      <translation type="unfinished">Automatically Analyze Program:</translation>
+      <translation>Secara Otomatis Menganalisis Program:</translation>
     </message>
     <message>
       <location filename="../Settings/DebugAnalysisSettingsTab.ui" line="58"/>
       <source>Always</source>
-      <translation type="unfinished">Always</translation>
+      <translation>Selalu</translation>
     </message>
     <message>
       <location filename="../Settings/DebugAnalysisSettingsTab.ui" line="63"/>
       <source>If Debugger Is Open</source>
-      <translation type="unfinished">If Debugger Is Open</translation>
+      <translation>Jika Debugger Sedang Terbuka</translation>
     </message>
     <message>
       <location filename="../Settings/DebugAnalysisSettingsTab.ui" line="68"/>
@@ -4098,7 +4098,7 @@ Apakah Anda ingin menimpanya?</translation>
     <message>
       <location filename="../Settings/DebugAnalysisSettingsTab.ui" line="78"/>
       <source>Generate Symbols For IRX Exports</source>
-      <translation type="unfinished">Generate Symbols For IRX Exports</translation>
+      <translation>Menciptakan Simbol untuk Ekspor IRX</translation>
     </message>
   </context>
   <context>
@@ -4326,37 +4326,37 @@ Apakah Anda ingin menimpanya?</translation>
     <message>
       <location filename="../Settings/DebugGSSettingsTab.ui" line="35"/>
       <source>Save RT</source>
-      <translation type="unfinished">Save RT</translation>
+      <translation>Simpan RT</translation>
     </message>
     <message>
       <location filename="../Settings/DebugGSSettingsTab.ui" line="42"/>
       <source>Save Frame</source>
-      <translation type="unfinished">Save Frame</translation>
+      <translation>Simpan Frame</translation>
     </message>
     <message>
       <location filename="../Settings/DebugGSSettingsTab.ui" line="49"/>
       <source>Save Texture</source>
-      <translation type="unfinished">Save Texture</translation>
+      <translation>Simpan Tekstur</translation>
     </message>
     <message>
       <location filename="../Settings/DebugGSSettingsTab.ui" line="56"/>
       <source>Save Depth</source>
-      <translation type="unfinished">Save Depth</translation>
+      <translation>Simpan Depth (kedalaman)</translation>
     </message>
     <message>
       <location filename="../Settings/DebugGSSettingsTab.ui" line="63"/>
       <source>Save Alpha</source>
-      <translation type="unfinished">Save Alpha</translation>
+      <translation>Simpan Alpha</translation>
     </message>
     <message>
       <location filename="../Settings/DebugGSSettingsTab.ui" line="70"/>
       <source>Save Info</source>
-      <translation type="unfinished">Save Info</translation>
+      <translation>Simpan Informasi</translation>
     </message>
     <message>
       <location filename="../Settings/DebugGSSettingsTab.ui" line="77"/>
       <source>Save Transfer Image Data</source>
-      <translation type="unfinished">Save Transfer Image Data</translation>
+      <translation>Simpan Data Transfer Gambar</translation>
     </message>
     <message>
       <location filename="../Settings/DebugGSSettingsTab.ui" line="86"/>
@@ -4381,7 +4381,7 @@ Apakah Anda ingin menimpanya?</translation>
     <message>
       <location filename="../Settings/DebugGSSettingsTab.ui" line="148"/>
       <source>Hardware Dump Directory:</source>
-      <translation type="unfinished">Hardware Dump Directory:</translation>
+      <translation>Direktori Hardware Dump:</translation>
     </message>
     <message>
       <location filename="../Settings/DebugGSSettingsTab.ui" line="155"/>
@@ -4392,13 +4392,13 @@ Apakah Anda ingin menimpanya?</translation>
       <location filename="../Settings/DebugGSSettingsTab.ui" line="167"/>
       <location filename="../Settings/DebugGSSettingsTab.ui" line="188"/>
       <source>Browse...</source>
-      <translation type="unfinished">Browse...</translation>
+      <translation>Telusuri...</translation>
     </message>
     <message>
       <location filename="../Settings/DebugGSSettingsTab.ui" line="174"/>
       <location filename="../Settings/DebugGSSettingsTab.ui" line="195"/>
       <source>Open...</source>
-      <translation type="unfinished">Open...</translation>
+      <translation>Buka...</translation>
     </message>
   </context>
   <context>
@@ -4427,33 +4427,33 @@ Apakah Anda ingin menimpanya?</translation>
     <message>
       <location filename="../Settings/DebugLoggingSettingsTab.ui" line="29"/>
       <source>EE</source>
-      <translation type="unfinished">EE</translation>
+      <translation>EE</translation>
     </message>
     <message>
       <location filename="../Settings/DebugLoggingSettingsTab.ui" line="37"/>
       <location filename="../Settings/DebugLoggingSettingsTab.ui" line="273"/>
       <source>DMA Control</source>
-      <translation type="unfinished">DMA Control</translation>
+      <translation>Kontrol DMA</translation>
     </message>
     <message>
       <location filename="../Settings/DebugLoggingSettingsTab.ui" line="44"/>
       <source>SPR / MFIFO</source>
-      <translation type="unfinished">SPR / MFIFO</translation>
+      <translation>SPR / MFIFO</translation>
     </message>
     <message>
       <location filename="../Settings/DebugLoggingSettingsTab.ui" line="51"/>
       <source>VIF</source>
-      <translation type="unfinished">VIF</translation>
+      <translation>VIF</translation>
     </message>
     <message>
       <location filename="../Settings/DebugLoggingSettingsTab.ui" line="58"/>
       <source>COP1 (FPU)</source>
-      <translation type="unfinished">COP1 (FPU)</translation>
+      <translation>COP1 (FPU)</translation>
     </message>
     <message>
       <location filename="../Settings/DebugLoggingSettingsTab.ui" line="65"/>
       <source>MSKPATH3</source>
-      <translation type="unfinished">MSKPATH3</translation>
+      <translation>MSKPATH3</translation>
     </message>
     <message>
       <location filename="../Settings/DebugLoggingSettingsTab.ui" line="72"/>
@@ -4463,17 +4463,17 @@ Apakah Anda ingin menimpanya?</translation>
     <message>
       <location filename="../Settings/DebugLoggingSettingsTab.ui" line="79"/>
       <source>GIF</source>
-      <translation type="unfinished">GIF</translation>
+      <translation>GIF</translation>
     </message>
     <message>
       <location filename="../Settings/DebugLoggingSettingsTab.ui" line="86"/>
       <source>R5900</source>
-      <translation type="unfinished">R5900</translation>
+      <translation>R5900</translation>
     </message>
     <message>
       <location filename="../Settings/DebugLoggingSettingsTab.ui" line="93"/>
       <source>COP0</source>
-      <translation type="unfinished">COP0</translation>
+      <translation>COP0</translation>
     </message>
     <message>
       <location filename="../Settings/DebugLoggingSettingsTab.ui" line="100"/>
