@@ -6885,7 +6885,7 @@ Apakah Anda ingin menghentikan game dan MENGHANCURKAN MEMORY CARD Anda secara pe
     <message>
       <location filename="../../pcsx2/ImGui/FullscreenUI.cpp" line="8144"/>
       <source>Underclocks or overclocks the emulated Emotion Engine CPU.</source>
-      <translation>Underclock atau overclock Cpu Emotion Engine yang di emulasi.</translation>
+      <translation>Underclock atau overclock CPU Emotion Engine yang di emulasi.</translation>
     </message>
     <message>
       <location filename="../../pcsx2/ImGui/FullscreenUI.cpp" line="8791"/>
